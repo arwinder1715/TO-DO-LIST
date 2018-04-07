@@ -1,2 +1,11 @@
-# TO-DO-LIST
-Constructed a simple To Do list that adds user input at the end of list &amp; we can delete any item from list by pressing delete button on every list item...HTML5, CSS3, JavaScript &amp; jQuery were the technologies that used to build this web app.
+#To-do List
+
+Lists tasks, can add, mark, and delete tasks.
+
+Concepts Used: [HTML] ul's and li's, input review; [CSS] styling, animation;[JS] jQuery, events, animations; event bubbling
+
+Improvements to Make: using objects/collections to list tasks?
+
+##Screenshots
+
+###Default State Default State ###Add Task Add Task ###Hover State Hover State
